@@ -1,3 +1,3 @@
 # Learning Web Development
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This gitbook is a review of all I've learned and will learn about modern web development. It will start with fundamentals and continue to more advance abstractions. This will be a living document that I will come back to remind myself of how much I have taken in and how much more I do not know. 

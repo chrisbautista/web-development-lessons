@@ -7,6 +7,7 @@
    4. HTML
    5. CSS
    6. JavaScript
+   7. Tools of the Trade
 2. Advanced
    1. SASS
    2. ECMASCRIPT 6
