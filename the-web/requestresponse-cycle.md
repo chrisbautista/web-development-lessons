@@ -10,3 +10,5 @@ These are steps in:
 3. **DNS server** will send a response to the browser with the corresponding IP if found.
 4. Browser then sends a request to the machine with that IP. 
 5. If all goes well, server responds with message with a HTTP Header of 200 OK and followed with the HTML document. 
+
+https://www.w3.org/wiki/images/1/1d/Article3.gif
