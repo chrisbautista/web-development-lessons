@@ -7,8 +7,9 @@ Thank you to @gitbook for the wonderful editor.
 
 ## What This Book is Not
 
-This is not my work alone. This is a condensation of peoples work that they generously share to the world. 
+This is not a real book. A better way of thinking of it is as as a journal of my path from junior to a real senior developer.
 
-This is not to be sold. A better way of thinking of it is as as a journal of my path from junior to a real senior developer
+This is not my work alone. This is a condensation of peoples works that they generously shared to the world. I will attribute those works to them. Thank these wonderful people with an email or comment on their blog if you find their work useful.
+
 
 
